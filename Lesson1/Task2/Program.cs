@@ -24,3 +24,9 @@ d1 = 6;
 double quotient2 = i1/d1;
 Console.WriteLine(quotient2);
 
+int a = 5;
+int b = 7;
+int c = 6;
+double d = 5;
+double z = a*b/(c+d);
+Console.WriteLine(z);
